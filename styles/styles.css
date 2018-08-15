@@ -1,0 +1,45 @@
+html{
+    font-size: small;
+    height: 100%;
+    margin: 0;
+    display: block;
+}
+head{
+    display: none;
+}
+
+.nav-top{
+    position: absolute;
+    top: -295px;
+    right: 0;
+    width: 100%;
+    font-size: 13px;
+}
+body{
+    font-family: arial,sans-serif;
+    background: #fff;
+    color: #222;
+}
+div.center{
+    text-align: center;
+}
+.logo{
+    display: block;
+    text-align: -webkit-cente
+}
+.search_bar{
+    border: none;
+    margin: 0px;
+    padding: 0px;
+    height: auto;
+    width: 100%;
+    background: url(data:image/voice-button.jpg) transparent;
+    position: absolute;
+    z-index: 6;
+    left: 0px;
+    outline: none;
+}
+.search_button{
+    height: 36px;
+    line-height: 27px;
+}
