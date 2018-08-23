@@ -25,7 +25,6 @@ div.center{
 }
 .logo{
     display: block;
-    text-align: -webkit-cente
 }
 .search_bar{
     border: none;
@@ -42,4 +41,9 @@ div.center{
 .search_button{
     height: 36px;
     line-height: 27px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
