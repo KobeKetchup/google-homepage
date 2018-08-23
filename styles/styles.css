@@ -42,7 +42,12 @@ div.center{
     height: 36px;
     line-height: 27px;
 }
-ul {
+.top {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.bottom {
     list-style-type: none;
     margin: 0;
     padding: 0;
